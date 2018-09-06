@@ -1,1 +1,2 @@
 # Mini-Robot-Car
+A robot car was built using the MSP430 microprocessor. The car has an automatic and remote-controlled mode. In the automatic mode, the servo motor acting as the windshield wiper of the car will move with a speed proportional to the amount of water that drops on the car's rain sensor. The car will also start moving and avoiding obstacles based on the distance measured using an ultrasonic distance sensor. In the remote control mode the car can change direction using an IR remote control.
